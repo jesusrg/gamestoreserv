@@ -29,6 +29,7 @@ public class GameDAO {
             gameWsList.add(gameWS);
         }
 
+       // "test";
         return gameWsList;
     }
 
